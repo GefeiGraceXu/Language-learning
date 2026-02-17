@@ -3,10 +3,10 @@
 ## 1. Study Plan
 
 ### Plan
-| Time | Task | Completion |
+| Expression | Meaning | Example Sentence |
 |----|----|----|
-| By 18:00 | 6 mock tests |  |
-| By 20:00 | 8 mock tests |  |
+|  |  |  |
+|  |  |  |
 
 ---
 

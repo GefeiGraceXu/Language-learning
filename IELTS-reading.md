@@ -3,10 +3,10 @@
 ## 1. Study Plan
 
 ### Plan
-| Expression | Meaning | Example Sentence |
+| Time | Task | Completion |
 |----|----|----|
-|  |  |  |
-|  |  |  |
+| 18:00 | 3 readings |  |
+| 20:00 | 6 readings |  |
 
 ---
 

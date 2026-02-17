@@ -3,7 +3,8 @@
 ## 1. Study Plan
 
 ### Plan
-| Time | Tasks | Completion |
+| Time | Task | Completion |
+|----|----|----|
 | By 18:00 | 6 mock tests |  |
 | By 20:00 | 8 mock tests |  |
 
